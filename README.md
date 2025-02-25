@@ -50,3 +50,19 @@ To execute this project:
 1. Install dependencies:
    ```bash
    pip install pandas numpy matplotlib scipy
+
+## Installation & Setup
+### 1️ **Run in Google Colab**
+You can open this project in **Google Colab** without installing anything:
+1. Clone this repository to your Google Drive.
+2. Open `ACME_Sales_Optimization.ipynb` in **Google Colab**.
+3. Run the notebook **sequentially** (do not skip cells).
+4. Results, visualizations, and analysis will be displayed.
+
+### 2️ **Run Locally (Python)**
+To run this project locally, follow these steps:
+
+#### **1. Clone the repository**
+```bash
+git clone https://github.com/yourusername/ACME-Sales-Optimization.git
+cd ACME-Sales-Optimization
